@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\bin\Debug\NailBar.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\bin\Debug\NailBar.exe
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\bin\Debug\NailBar.pdb
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.AdminPanel.resources
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.Login.resources
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.MasterAdd.resources
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.exe
+c:\users\admin\documents\visual studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.client_form.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\NailBar\NailBar\obj\Debug\NailBar.RegistrForm.resources
